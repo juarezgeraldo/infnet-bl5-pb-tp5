@@ -4,9 +4,9 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@mipmap/imc"
+        android:icon="@drawable/bmi"
         android:label="@string/app_name"
-        android:roundIcon="@mipmap/imc"
+        android:roundIcon="@drawable/bmi"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".ResultActivity">
